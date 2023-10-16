@@ -5,4 +5,4 @@ import cv2
 model = YOLO("yolov8n.pt")
 
 # 入力画像
-results = model('bus.jpg',save=True) 
+results = model('IMG_3448.JPG',save=True) 
