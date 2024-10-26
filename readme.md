@@ -5,6 +5,8 @@
 
 `pip install opencv-python`
 
+`python yolo-test.py`
+
 ## 参考サイト
 https://qiita.com/napspans/items/9ddc80e4625314c5607d
 https://envader.plus/course/8/scenario/1074
